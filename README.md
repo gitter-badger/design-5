@@ -2,6 +2,8 @@ Folder names should be self explanatory.
 
 # font
 
+[![Join the chat at https://gitter.im/DSTOQ-design/Lobby](https://badges.gitter.im/DSTOQ-design/Lobby.svg)](https://gitter.im/DSTOQ-design/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Rajdhani https://fonts.google.com/specimen/Rajdhani
 
 # Colors
